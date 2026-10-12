@@ -1,0 +1,10 @@
+{
+  "company_name": "Replace with your company name",
+  "markets": ["European Union", "Netherlands", "Germany", "France", "United Kingdom"],
+  "economic_roles": ["importer", "distributor", "retailer", "online marketplace"],
+  "product_categories": ["Batteries", "Packaging", "Electrical Safety / LVD", "EMC", "Digital Product Passport", "General Product Safety"],
+  "compliance_categories": ["Batteries", "Packaging", "Waste / EPR", "Digital Product Passport", "General Product Safety", "VAT", "Customs"],
+  "keywords": ["battery", "furniture", "lighting", "electrical", "marketplace", "packaging"],
+  "excluded_categories": [],
+  "critical_categories": ["General Product Safety", "Batteries", "CE Marking"]
+}
